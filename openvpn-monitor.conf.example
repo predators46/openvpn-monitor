@@ -9,6 +9,6 @@ datetime_format=%d/%m/%Y %H:%M:%S
 
 [VPN1]
 host=localhost
-port=5555
+port=30000
 name=Staff VPN
 show_disconnect=False
